@@ -1,0 +1,9 @@
+usuario Admin {
+  rol = "Administrador";
+  nivel = 1;
+}
+
+usuario Invitado {
+  rol = "Lector";
+  activo = falso;
+}

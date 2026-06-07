@@ -1,0 +1,3 @@
+usuari Error2 {
+  estado = true;
+}

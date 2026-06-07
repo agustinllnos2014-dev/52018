@@ -1,0 +1,4 @@
+usuario Error1 {
+  nombre = "Falta punto y coma"
+  edad = 25;
+}
